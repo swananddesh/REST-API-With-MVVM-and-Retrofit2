@@ -2,7 +2,6 @@ package com.stalwart.foodrecipes.activity;
 
 
 import android.os.Bundle;
-
 import com.stalwart.foodrecipes.R;
 
 public class RecipeListActivity extends BaseActivity {
